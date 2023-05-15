@@ -1,0 +1,14 @@
+.rating-stars-wrapper, .rating-stars {
+    --star-qty: 5;
+    --star-width: 14px;
+    --star-ratio: .84;
+    background-image: url('../images/rating.svg');
+    background-size: var(--star-width);
+    background-position: left bottom;
+    width: calc(var(--star-qty) * var(--star-width));
+    height: calc(var(--star-ratio) * var(--star-width));
+}
+
+.rating-stars {
+    background-position: left top;
+}

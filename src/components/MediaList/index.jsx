@@ -4,6 +4,8 @@ import cx from "classnames/bind"
 import { AppContext } from "../../context/AppContext";
 // components
 import ScrollView from "../ScrollView";
+// styles
+import "../../assets/css/mediaFiles.css";
 
 const MediaList = () => {
     const { data } = useContext(AppContext);
@@ -11,10 +13,10 @@ const MediaList = () => {
     if (!data) return;
 
     return (
-        <div className={cx("review-media-files")} style={{ maxWidth: "300px" }}>
+        <div className={cx("review-media-files")}>
             <ScrollView title={"Fotoğraflı değerlendirmeler"}>
                 {data.imageSummary.map(({ id, mediaFile }) => (
-                    <div key={id} tabIndex={0}>
+                    <div className={cx('review-media')} key={id} tabIndex={0}>
                         <img src={mediaFile.thumbnailUrl} />
                     </div>
                 ))}

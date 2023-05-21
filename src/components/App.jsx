@@ -11,12 +11,15 @@ const App = () => {
   return (
     <AppProvider>
 
-      <ReviewSummary />
+      <div className="" style={{ maxWidth: "450px" }}>
+        <ReviewSummary />
 
-      <FilterByReview />
+        <FilterByReview />
 
-      <MediaList />
-      
+        <MediaList />
+
+      </div>
+
       <ReviewList />
 
     </AppProvider>

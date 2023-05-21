@@ -12,7 +12,7 @@ const FilterByReview = () => {
     if (!data) return;
 
     return (
-        <div className={cx("filter-by-review")} style={{ maxWidth: "300px" }}>
+        <div className={cx("filter-by-review")}>
             <ScrollView title={"Rating'e göre filtrele"}>
                 {data.contentSummary.ratingCounts.map(({ rate, commentCount }, index) => (
                     <Ratebox key={index} rate={rate} commentCount={commentCount} />

@@ -1,0 +1,12 @@
+.review-media-files img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    pointer-events: none;
+}
+
+.review-media-files .review-media {
+    margin-right: 6px;
+    border: 1px solid rgba(0, 0, 0, .1);
+    border-radius: 3px;
+}

@@ -1,12 +1,16 @@
-import RatingSummary from "./RatingSummary";
+// context
+import AppProvider from "../context/AppContext";
+// component
+import ReviewList from "./ReviewList";
 
 const App = () => {
+
   return (
-    <div className="App">
+    <AppProvider>
 
-        <RatingSummary width='80px' qty='4.3' />
+      <ReviewList />
 
-    </div>
+    </AppProvider>
   );
 }
 

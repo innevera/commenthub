@@ -1,0 +1,827 @@
+{
+    "reviews": {
+        "isSuccess": true,
+        "statusCode": 200,
+        "error": null,
+        "result": {
+            "contentSummary": {
+                "productSizes": [
+                    {
+                        "name": "Tek Ebat",
+                        "count": 3394
+                    },
+                    {
+                        "name": "one size",
+                        "count": 73
+                    }
+                ],
+                "ratingCounts": [
+                    {
+                        "rate": 5,
+                        "count": 4072,
+                        "commentCount": 2672
+                    },
+                    {
+                        "rate": 4,
+                        "count": 590,
+                        "commentCount": 419
+                    },
+                    {
+                        "rate": 3,
+                        "count": 255,
+                        "commentCount": 181
+                    },
+                    {
+                        "rate": 2,
+                        "count": 101,
+                        "commentCount": 76
+                    },
+                    {
+                        "rate": 1,
+                        "count": 150,
+                        "commentCount": 119
+                    }
+                ],
+                "tags": [
+                    {
+                        "name": "tümü",
+                        "count": 3467
+                    },
+                    {
+                        "name": "fotoğraflı",
+                        "count": 642,
+                        "imageUrl": "https://cdn.dsmcdn.com/mobile/reviewrating/kamera-emoji6x.png"
+                    },
+                    {
+                        "name": "kalite",
+                        "count": 294
+                    },
+                    {
+                        "name": "kuru ciltler",
+                        "count": 106
+                    },
+                    {
+                        "name": "renk özelliği",
+                        "count": 94
+                    },
+                    {
+                        "name": "günlük kullanım",
+                        "count": 85
+                    },
+                    {
+                        "name": "ağırlık",
+                        "count": 71
+                    },
+                    {
+                        "name": "sivilce yapmıyor",
+                        "count": 32
+                    },
+                    {
+                        "name": "kalıp / boyut / ölçü",
+                        "count": 29
+                    },
+                    {
+                        "name": "kalıcı değil",
+                        "count": 27
+                    },
+                    {
+                        "name": "yumuşacık yapıyor",
+                        "count": 26
+                    },
+                    {
+                        "name": "şıklık",
+                        "count": 26
+                    }
+                ],
+                "userCommentExist": false,
+                "imageUrl": "https://cdn.dsmcdn.com/mobile/reviewrating/kamera-emoji6x.png",
+                "averageRating": 4.61,
+                "totalCommentCount": 3467,
+                "totalRatingCount": 5168,
+                "isSearchable": false,
+                "description": "Hizmet ve ürün kalitesi sebebiyle işbirliğimizi sonlandırdığımız satıcıların ürünlerini satıştan kaldırdığımız için, size daha doğru deneyim sunabilmek adına, bu satıcılardan yapılan alışverişlerdeki değerlendirmeleri ürün puanına dahil etmiyoruz."
+            },
+            "productReviews": {
+                "totalElements": 3467,
+                "totalPages": 116,
+                "page": 0,
+                "size": 30,
+                "content": [
+                    {
+                        "isElite": false,
+                        "isInfluencer": false,
+                        "commentDate": "2023-04-24",
+                        "userFullName": "Ozge D.",
+                        "id": 295886849,
+                        "rate": 3,
+                        "commentTitle": "",
+                        "comment": "Yüzümde kuruyor pul pul oluyor. Nemlendiriciyle karıştırıp kullanıyorum anca kurtarıyor. Rengide beyaz tenliler için ideal.",
+                        "trusted": true,
+                        "lastModifiedDate": "24 Nisan 2023",
+                        "sellerName": "L'Oreal",
+                        "positiveFlagCount": 0,
+                        "userLiked": false
+                    },
+                    {
+                        "isElite": false,
+                        "isInfluencer": false,
+                        "commentDate": "2022-05-06",
+                        "userFullName": "d** k**",
+                        "id": 179492202,
+                        "rate": 5,
+                        "commentTitle": "",
+                        "comment": "ürüne bayıldım.biraz çok sıvı ama bu hiç bir şey değiştirmiyor cildinizde pururzsus duruyor ağırlık yapmıyor doğal gorunuyor yumuşacık yapıyor sanki fondöten hiç yok gibi çok hoşuma gitti stoklayacagim sanırım ☺️",
+                        "trusted": true,
+                        "lastModifiedDate": "6 Mayıs 2022",
+                        "sellerName": "L'Oreal",
+                        "positiveFlagCount": 4,
+                        "userLiked": false
+                    },
+                    {
+                        "isElite": false,
+                        "isInfluencer": false,
+                        "commentDate": "2023-04-18",
+                        "userFullName": "e** g**",
+                        "id": 294246011,
+                        "rate": 5,
+                        "commentTitle": "",
+                        "comment": "Stok yapılan ğeğn,çok iyi",
+                        "trusted": true,
+                        "lastModifiedDate": "18 Nisan 2023",
+                        "sellerName": "L'Oreal",
+                        "positiveFlagCount": 0,
+                        "userLiked": false
+                    },
+                    {
+                        "isElite": false,
+                        "isInfluencer": false,
+                        "commentDate": "2023-05-02",
+                        "userFullName": "S** Y**",
+                        "id": 299109074,
+                        "rate": 5,
+                        "commentTitle": "",
+                        "comment": "Yıllardır kullandığım ve stok yaptığım fondötenim ❤️",
+                        "trusted": true,
+                        "lastModifiedDate": "2 Mayıs 2023",
+                        "sellerName": "L'Oreal",
+                        "positiveFlagCount": 0,
+                        "userLiked": false
+                    },
+                    {
+                        "isElite": false,
+                        "isInfluencer": false,
+                        "commentDate": "2023-04-16",
+                        "userFullName": "D** Ç**",
+                        "id": 293173401,
+                        "rate": 4,
+                        "commentTitle": "",
+                        "comment": "Ablam için aldım beğendi",
+                        "trusted": true,
+                        "lastModifiedDate": "16 Nisan 2023",
+                        "sellerName": "L'Oreal",
+                        "positiveFlagCount": 0,
+                        "userLiked": false
+                    },
+                    {
+                        "isElite": false,
+                        "isInfluencer": false,
+                        "commentDate": "2023-04-23",
+                        "userFullName": "ş** t**",
+                        "id": 295478662,
+                        "rate": 3,
+                        "commentTitle": "",
+                        "comment": "kapatıcılığı yüksek değil günlük kullanımda bile kapatmıyor ama ciltle bütünleşiyor pütür pütür durmuyor",
+                        "trusted": true,
+                        "lastModifiedDate": "23 Nisan 2023",
+                        "sellerName": "L'Oreal",
+                        "positiveFlagCount": 0,
+                        "userLiked": false
+                    },
+                    {
+                        "isElite": false,
+                        "isInfluencer": false,
+                        "commentDate": "2023-04-30",
+                        "userFullName": "S** I**",
+                        "id": 298671220,
+                        "rate": 3,
+                        "commentTitle": "",
+                        "comment": "ehhjh işte çok beğenmedim",
+                        "trusted": true,
+                        "lastModifiedDate": "30 Nisan 2023",
+                        "sellerName": "L'Oreal",
+                        "positiveFlagCount": 0,
+                        "userLiked": false
+                    },
+                    {
+                        "isElite": false,
+                        "isInfluencer": false,
+                        "commentDate": "2023-05-05",
+                        "userFullName": "D** Y**",
+                        "id": 300722217,
+                        "rate": 5,
+                        "commentTitle": "",
+                        "comment": "surekli kullandığım bir urun indirimdeyken hemen aldim",
+                        "trusted": true,
+                        "lastModifiedDate": "5 Mayıs 2023",
+                        "sellerName": "L'Oreal",
+                        "positiveFlagCount": 0,
+                        "userLiked": false
+                    },
+                    {
+                        "isElite": false,
+                        "isInfluencer": false,
+                        "commentDate": "2023-04-13",
+                        "userFullName": "G** G**",
+                        "id": 291864433,
+                        "rate": 5,
+                        "commentTitle": "",
+                        "comment": "Severek kullanıyorum, hep hayatımda olacak sanırım.",
+                        "trusted": true,
+                        "lastModifiedDate": "13 Nisan 2023",
+                        "sellerName": "L'Oreal",
+                        "positiveFlagCount": 0,
+                        "userLiked": false
+                    },
+                    {
+                        "isElite": false,
+                        "isInfluencer": false,
+                        "commentDate": "2023-04-13",
+                        "userFullName": "**** ****",
+                        "id": 292229236,
+                        "rate": 4,
+                        "commentTitle": "",
+                        "comment": "hediye aldım iyiymiş sanırım",
+                        "trusted": true,
+                        "lastModifiedDate": "13 Nisan 2023",
+                        "sellerName": "L'Oreal",
+                        "positiveFlagCount": 0,
+                        "userLiked": false
+                    },
+                    {
+                        "isElite": false,
+                        "isInfluencer": false,
+                        "commentDate": "2023-05-19",
+                        "userFullName": "G** K**",
+                        "id": 305997063,
+                        "rate": 5,
+                        "commentTitle": "",
+                        "comment": "Yıllardır istiyordum ve sonunda aldım o kadar beğendim ki kuru ciltler için harika bir ürün .",
+                        "trusted": true,
+                        "lastModifiedDate": "19 Mayıs 2023",
+                        "sellerName": "L'Oreal",
+                        "positiveFlagCount": 0,
+                        "userLiked": false
+                    },
+                    {
+                        "isElite": false,
+                        "isInfluencer": false,
+                        "commentDate": "2023-04-11",
+                        "userFullName": "**** ****",
+                        "id": 291094763,
+                        "rate": 5,
+                        "commentTitle": "",
+                        "comment": "yıllardır severek kullandığım bir ürün. elime sorunsuz ulaştı.",
+                        "trusted": true,
+                        "lastModifiedDate": "11 Nisan 2023",
+                        "sellerName": "L'Oreal",
+                        "positiveFlagCount": 1,
+                        "userLiked": false
+                    },
+                    {
+                        "isElite": false,
+                        "isInfluencer": false,
+                        "commentDate": "2023-04-16",
+                        "userFullName": "**** ****",
+                        "id": 293291117,
+                        "rate": 5,
+                        "commentTitle": "",
+                        "comment": "güzell tavsiye edilirrr",
+                        "trusted": true,
+                        "lastModifiedDate": "16 Nisan 2023",
+                        "sellerName": "L'Oreal",
+                        "positiveFlagCount": 0,
+                        "userLiked": false
+                    },
+                    {
+                        "isElite": false,
+                        "isInfluencer": false,
+                        "commentDate": "2020-07-15",
+                        "userFullName": "Ayşegül D.",
+                        "id": 44007365,
+                        "rate": 5,
+                        "commentTitle": "",
+                        "comment": "İndirimden faydalandım rengi cildime uyum sağladı kaliteli bir ürün",
+                        "trusted": true,
+                        "lastModifiedDate": "15 Temmuz 2020",
+                        "sellerName": "L'Oreal",
+                        "positiveFlagCount": 0,
+                        "userLiked": false
+                    },
+                    {
+                        "isElite": false,
+                        "isInfluencer": false,
+                        "commentDate": "2023-04-12",
+                        "userFullName": "F** A**",
+                        "id": 291599492,
+                        "rate": 1,
+                        "commentTitle": "",
+                        "comment": "Pek beğenemedim hiç fondoten gibi değil bb krem gibi",
+                        "trusted": true,
+                        "lastModifiedDate": "12 Nisan 2023",
+                        "sellerName": "L'Oreal",
+                        "positiveFlagCount": 0,
+                        "userLiked": false
+                    },
+                    {
+                        "isElite": false,
+                        "isInfluencer": false,
+                        "commentDate": "2023-04-27",
+                        "userFullName": "h** U**",
+                        "id": 297184401,
+                        "rate": 4,
+                        "commentTitle": "",
+                        "comment": "baya etkili teşekkürler",
+                        "trusted": true,
+                        "lastModifiedDate": "27 Nisan 2023",
+                        "sellerName": "L'Oreal",
+                        "positiveFlagCount": 0,
+                        "userLiked": false
+                    },
+                    {
+                        "isElite": false,
+                        "isInfluencer": false,
+                        "commentDate": "2023-05-08",
+                        "userFullName": "f** c**",
+                        "id": 301656317,
+                        "rate": 5,
+                        "commentTitle": "",
+                        "comment": "kumral tenliyim tonu bana uydu",
+                        "trusted": true,
+                        "lastModifiedDate": "8 Mayıs 2023",
+                        "sellerName": "KOZMET",
+                        "positiveFlagCount": 0,
+                        "userLiked": false
+                    },
+                    {
+                        "isElite": false,
+                        "isInfluencer": false,
+                        "commentDate": "2023-05-06",
+                        "userFullName": "**** ****",
+                        "id": 300961740,
+                        "rate": 5,
+                        "commentTitle": "",
+                        "comment": "Çok seviyorum. İncecik olmasına rağmen kapatıcılığı çok iyi. Hafif simli. Herkese tavsiye ederim",
+                        "trusted": true,
+                        "lastModifiedDate": "6 Mayıs 2023",
+                        "sellerName": "L'Oreal",
+                        "positiveFlagCount": 0,
+                        "userLiked": false
+                    },
+                    {
+                        "isElite": false,
+                        "isInfluencer": false,
+                        "commentDate": "2023-04-26",
+                        "userFullName": "H** Ş**",
+                        "id": 296587295,
+                        "rate": 5,
+                        "commentTitle": "",
+                        "comment": "Yağlı ciltler için uygun ama kuru ciltler için iyi olmaz",
+                        "trusted": true,
+                        "lastModifiedDate": "26 Nisan 2023",
+                        "sellerName": "L'Oreal",
+                        "positiveFlagCount": 0,
+                        "userLiked": false
+                    },
+                    {
+                        "isElite": false,
+                        "isInfluencer": false,
+                        "commentDate": "2023-04-09",
+                        "userFullName": "Ş** C**",
+                        "id": 290259181,
+                        "rate": 5,
+                        "commentTitle": "",
+                        "comment": "çok beğendim tüm cilt tiplerine uygun bir fondöten",
+                        "trusted": true,
+                        "lastModifiedDate": "9 Nisan 2023",
+                        "sellerName": "L'Oreal",
+                        "positiveFlagCount": 0,
+                        "userLiked": false
+                    },
+                    {
+                        "isElite": true,
+                        "isInfluencer": false,
+                        "commentDate": "2023-05-15",
+                        "userFullName": "x** c**",
+                        "id": 304502233,
+                        "rate": 5,
+                        "commentTitle": "",
+                        "comment": "mat kremsi guzel",
+                        "trusted": true,
+                        "lastModifiedDate": "15 Mayıs 2023",
+                        "sellerName": "L'Oreal",
+                        "positiveFlagCount": 0,
+                        "userLiked": false
+                    },
+                    {
+                        "isElite": false,
+                        "isInfluencer": false,
+                        "commentDate": "2023-05-04",
+                        "userFullName": "Z** Ü**",
+                        "id": 300154442,
+                        "rate": 4,
+                        "commentTitle": "",
+                        "comment": "Güzel rengi tonu ama simli biraz ışıltılı günlük kullanıma uygun olmayabilir",
+                        "trusted": true,
+                        "lastModifiedDate": "4 Mayıs 2023",
+                        "sellerName": "L'Oreal",
+                        "positiveFlagCount": 0,
+                        "userLiked": false
+                    },
+                    {
+                        "isElite": false,
+                        "isInfluencer": false,
+                        "commentDate": "2023-04-20",
+                        "userFullName": "P** D**",
+                        "id": 294773619,
+                        "rate": 4,
+                        "commentTitle": "",
+                        "comment": "Güzel duruyor",
+                        "trusted": true,
+                        "lastModifiedDate": "20 Nisan 2023",
+                        "sellerName": "L'Oreal",
+                        "positiveFlagCount": 0,
+                        "userLiked": false
+                    },
+                    {
+                        "isElite": false,
+                        "isInfluencer": false,
+                        "commentDate": "2023-04-28",
+                        "userFullName": "B** Z**",
+                        "id": 297623608,
+                        "rate": 1,
+                        "commentTitle": "",
+                        "comment": "Kapatıcılığı hiç iyi değil beğenemedim",
+                        "trusted": true,
+                        "lastModifiedDate": "28 Nisan 2023",
+                        "sellerName": "L'Oreal",
+                        "positiveFlagCount": 0,
+                        "userLiked": false
+                    },
+                    {
+                        "isElite": false,
+                        "isInfluencer": false,
+                        "commentDate": "2023-04-25",
+                        "userFullName": "ş** Ö**",
+                        "id": 295968373,
+                        "rate": 5,
+                        "commentTitle": "",
+                        "comment": "Yapısı ccok iyi ben beğendim kapaticiligi da güzel bence ✨",
+                        "trusted": true,
+                        "lastModifiedDate": "25 Nisan 2023",
+                        "sellerName": "Renk AVM Kozmetik",
+                        "positiveFlagCount": 0,
+                        "userLiked": false
+                    },
+                    {
+                        "isElite": false,
+                        "isInfluencer": false,
+                        "commentDate": "2023-04-24",
+                        "userFullName": "N** N** B**",
+                        "id": 295621063,
+                        "rate": 1,
+                        "commentTitle": "",
+                        "comment": "Çok kötü bir ürün",
+                        "trusted": true,
+                        "lastModifiedDate": "24 Nisan 2023",
+                        "sellerName": "L'Oreal",
+                        "positiveFlagCount": 1,
+                        "userLiked": false
+                    },
+                    {
+                        "isElite": false,
+                        "isInfluencer": false,
+                        "commentDate": "2023-04-29",
+                        "userFullName": "i** P**",
+                        "id": 298239426,
+                        "rate": 5,
+                        "commentTitle": "",
+                        "comment": "Teşekkür ederim",
+                        "trusted": true,
+                        "lastModifiedDate": "29 Nisan 2023",
+                        "sellerName": "L'Oreal",
+                        "positiveFlagCount": 0,
+                        "userLiked": false
+                    },
+                    {
+                        "isElite": false,
+                        "isInfluencer": false,
+                        "commentDate": "2023-04-27",
+                        "userFullName": "M** Ö**",
+                        "id": 297435640,
+                        "rate": 5,
+                        "commentTitle": "",
+                        "comment": "Beğendim güzel iyi",
+                        "trusted": true,
+                        "lastModifiedDate": "27 Nisan 2023",
+                        "sellerName": "L'Oreal",
+                        "positiveFlagCount": 0,
+                        "userLiked": false
+                    },
+                    {
+                        "isElite": false,
+                        "isInfluencer": false,
+                        "commentDate": "2023-04-27",
+                        "userFullName": "M** K**",
+                        "id": 297013847,
+                        "rate": 5,
+                        "commentTitle": "",
+                        "comment": "Çok güzelllll",
+                        "trusted": true,
+                        "lastModifiedDate": "27 Nisan 2023",
+                        "sellerName": "L'Oreal",
+                        "positiveFlagCount": 0,
+                        "userLiked": false
+                    },
+                    {
+                        "isElite": false,
+                        "isInfluencer": false,
+                        "commentDate": "2023-04-23",
+                        "userFullName": "g** ç**",
+                        "id": 295549736,
+                        "rate": 5,
+                        "commentTitle": "",
+                        "comment": "Gayet güzel",
+                        "trusted": true,
+                        "lastModifiedDate": "23 Nisan 2023",
+                        "sellerName": "L'Oreal",
+                        "positiveFlagCount": 0,
+                        "userLiked": false
+                    }
+                ],
+                "userCommentExist": false
+            },
+            "imageSummary": [
+                {
+                    "id": 42403204,
+                    "userFullName": "M** D** A**",
+                    "rate": 5,
+                    "comment": "Bugday tene cok ıyı oldu severek kullanıyorum",
+                    "trusted": true,
+                    "sellerName": "L'Oreal",
+                    "mediaFile": {
+                        "url": "https://review-rating.mncdn.com/prod/img/2016931/2020919/2026901/1263159/42899075-1681114453345.jpeg",
+                        "thumbnailUrl": "https://review-rating.mncdn.com/mnresize/300/300/prod/img/2016931/2020919/2026901/1263159/42899075-1681114453345.jpeg"
+                    },
+                    "lastModifiedDate": "10 Nisan 2023"
+                },
+                {
+                    "id": 42403203,
+                    "userFullName": "M** D** A**",
+                    "rate": 5,
+                    "comment": "Bugday tene cok ıyı oldu severek kullanıyorum",
+                    "trusted": true,
+                    "sellerName": "L'Oreal",
+                    "mediaFile": {
+                        "url": "https://review-rating.mncdn.com/prod/img/2016931/2020919/2026901/1263159/42899075-1681114453282.jpeg",
+                        "thumbnailUrl": "https://review-rating.mncdn.com/mnresize/300/300/prod/img/2016931/2020919/2026901/1263159/42899075-1681114453282.jpeg"
+                    },
+                    "lastModifiedDate": "10 Nisan 2023"
+                },
+                {
+                    "id": 42403205,
+                    "userFullName": "M** D** A**",
+                    "rate": 5,
+                    "comment": "Bugday tene cok ıyı oldu severek kullanıyorum",
+                    "trusted": true,
+                    "sellerName": "L'Oreal",
+                    "mediaFile": {
+                        "url": "https://review-rating.mncdn.com/prod/img/2016931/2020919/2026901/1263159/42899075-1681114453406.jpeg",
+                        "thumbnailUrl": "https://review-rating.mncdn.com/mnresize/300/300/prod/img/2016931/2020919/2026901/1263159/42899075-1681114453406.jpeg"
+                    },
+                    "lastModifiedDate": "10 Nisan 2023"
+                },
+                {
+                    "id": 43999263,
+                    "userFullName": "T** O**",
+                    "rate": 5,
+                    "comment": "Buğday tenliyim benim tonuma oldu pek kapatıcılığı yok ama",
+                    "trusted": true,
+                    "sellerName": "L'Oreal",
+                    "mediaFile": {
+                        "url": "https://review-rating.mncdn.com/prod/img/2016931/2020919/2036871/1263159/22336247-1681983830652.jpeg",
+                        "thumbnailUrl": "https://review-rating.mncdn.com/mnresize/300/300/prod/img/2016931/2020919/2036871/1263159/22336247-1681983830652.jpeg"
+                    },
+                    "lastModifiedDate": "20 Nisan 2023"
+                },
+                {
+                    "id": 46074408,
+                    "userFullName": "H** Ö**",
+                    "rate": 5,
+                    "comment": "Yıllardır sürekli kullandığım bir ürün kapatıcılığı yüksek değil günlük kullanıma uygun",
+                    "trusted": true,
+                    "sellerName": "L'Oreal",
+                    "mediaFile": {
+                        "url": "https://review-rating.mncdn.com/prod/img/2016931/2021916/2021916/1263159/28927421-1683264295959.jpeg",
+                        "thumbnailUrl": "https://review-rating.mncdn.com/mnresize/300/300/prod/img/2016931/2021916/2021916/1263159/28927421-1683264295959.jpeg"
+                    },
+                    "lastModifiedDate": "5 Mayıs 2023"
+                },
+                {
+                    "id": 46484037,
+                    "userFullName": "B** A**",
+                    "rate": 5,
+                    "comment": "Yıllardır kullandığım bir ürün çok memnunum. Kargo çok hızlı geldi ve sağlam paketlemişlerdi. Satıcıya teşekkür ederim.",
+                    "trusted": true,
+                    "sellerName": "L'Oreal",
+                    "mediaFile": {
+                        "url": "https://review-rating.mncdn.com/prod/img/2016931/2021916/2024907/1263159/40329520-1683522955146.jpeg",
+                        "thumbnailUrl": "https://review-rating.mncdn.com/mnresize/300/300/prod/img/2016931/2021916/2024907/1263159/40329520-1683522955146.jpeg"
+                    },
+                    "lastModifiedDate": "8 Mayıs 2023"
+                },
+                {
+                    "id": 46484036,
+                    "userFullName": "B** A**",
+                    "rate": 5,
+                    "comment": "Yıllardır kullandığım bir ürün çok memnunum. Kargo çok hızlı geldi ve sağlam paketlemişlerdi. Satıcıya teşekkür ederim.",
+                    "trusted": true,
+                    "sellerName": "L'Oreal",
+                    "mediaFile": {
+                        "url": "https://review-rating.mncdn.com/prod/img/2016931/2021916/2024907/1263159/40329520-1683522954534.jpeg",
+                        "thumbnailUrl": "https://review-rating.mncdn.com/mnresize/300/300/prod/img/2016931/2021916/2024907/1263159/40329520-1683522954534.jpeg"
+                    },
+                    "lastModifiedDate": "8 Mayıs 2023"
+                },
+                {
+                    "id": 42084338,
+                    "userFullName": "h** b**",
+                    "rate": 5,
+                    "comment": "buğday tenliyim diye biliyorum karma cilt yapısına sahibim kapatıcılığı yüksek değil ama günlük kullanım için ideal ve cildimle inanılmaz güzel bütünleşti . pure beauty ile bunun arasında kalmıştım eski formunu kullandığım için bunu denemek istedim ben çok memnun kaldım cildimde 5 saat durdu bulaşması çok değil ve yağlanma da yapmadı . tekrar alır mıyım evet kesinlikle",
+                    "trusted": true,
+                    "sellerName": "L'Oreal",
+                    "mediaFile": {
+                        "url": "https://review-rating.mncdn.com/prod/img/2016931/2020919/2023910/1263159/33830452-1680898839479.jpeg",
+                        "thumbnailUrl": "https://review-rating.mncdn.com/mnresize/300/300/prod/img/2016931/2020919/2023910/1263159/33830452-1680898839479.jpeg"
+                    },
+                    "lastModifiedDate": "7 Nisan 2023"
+                },
+                {
+                    "id": 42084337,
+                    "userFullName": "h** b**",
+                    "rate": 5,
+                    "comment": "buğday tenliyim diye biliyorum karma cilt yapısına sahibim kapatıcılığı yüksek değil ama günlük kullanım için ideal ve cildimle inanılmaz güzel bütünleşti . pure beauty ile bunun arasında kalmıştım eski formunu kullandığım için bunu denemek istedim ben çok memnun kaldım cildimde 5 saat durdu bulaşması çok değil ve yağlanma da yapmadı . tekrar alır mıyım evet kesinlikle",
+                    "trusted": true,
+                    "sellerName": "L'Oreal",
+                    "mediaFile": {
+                        "url": "https://review-rating.mncdn.com/prod/img/2016931/2020919/2023910/1263159/33830452-1680898839211.jpeg",
+                        "thumbnailUrl": "https://review-rating.mncdn.com/mnresize/300/300/prod/img/2016931/2020919/2023910/1263159/33830452-1680898839211.jpeg"
+                    },
+                    "lastModifiedDate": "7 Nisan 2023"
+                },
+                {
+                    "id": 45231532,
+                    "userFullName": "C** A**",
+                    "rate": 4,
+                    "comment": "Çok güzel bi kapatılıcığı var ciltte ağırlık yapmıyor",
+                    "trusted": true,
+                    "sellerName": "L'Oreal",
+                    "mediaFile": {
+                        "url": "https://review-rating.mncdn.com/prod/img/2016931/2020919/2045844/1263159/82725343-1682775686156.jpeg",
+                        "thumbnailUrl": "https://review-rating.mncdn.com/mnresize/300/300/prod/img/2016931/2020919/2045844/1263159/82725343-1682775686156.jpeg"
+                    },
+                    "lastModifiedDate": "29 Nisan 2023"
+                },
+                {
+                    "id": 45748928,
+                    "userFullName": "M** K**",
+                    "rate": 4,
+                    "comment": "Arkadaşıma aldım, memnun kaldığını söyledi",
+                    "trusted": true,
+                    "sellerName": "L'Oreal",
+                    "mediaFile": {
+                        "url": "https://review-rating.mncdn.com/prod/img/2016931/2021916/2019922/1263159/25017277-1683100269037.jpeg",
+                        "thumbnailUrl": "https://review-rating.mncdn.com/mnresize/300/300/prod/img/2016931/2021916/2019922/1263159/25017277-1683100269037.jpeg"
+                    },
+                    "lastModifiedDate": "3 Mayıs 2023"
+                },
+                {
+                    "id": 46058513,
+                    "userFullName": "H** A**",
+                    "rate": 5,
+                    "comment": "Her zaman kullandığım bi fondöten teşekkürler Maybelline 💓",
+                    "trusted": true,
+                    "sellerName": "L'Oreal",
+                    "mediaFile": {
+                        "url": "https://review-rating.mncdn.com/prod/img/2016931/2021916/2020919/1263159/23649035-1683233620641.jpeg",
+                        "thumbnailUrl": "https://review-rating.mncdn.com/mnresize/300/300/prod/img/2016931/2021916/2020919/1263159/23649035-1683233620641.jpeg"
+                    },
+                    "lastModifiedDate": "4 Mayıs 2023"
+                },
+                {
+                    "id": 46578044,
+                    "userFullName": "Y** S**",
+                    "rate": 5,
+                    "comment": "Kullandigim en iyi fondöten sürekli alirim",
+                    "trusted": true,
+                    "sellerName": "L'Oreal",
+                    "mediaFile": {
+                        "url": "https://review-rating.mncdn.com/prod/img/2016931/2021916/2024907/1263159/13922119-1683561950760.jpeg",
+                        "thumbnailUrl": "https://review-rating.mncdn.com/mnresize/300/300/prod/img/2016931/2021916/2024907/1263159/13922119-1683561950760.jpeg"
+                    },
+                    "lastModifiedDate": "8 Mayıs 2023"
+                },
+                {
+                    "id": 45247816,
+                    "userFullName": "A** K**",
+                    "rate": 5,
+                    "comment": "Sağlam bir şekilde elime ulaştı henüz kullanmadım ama kalitesinden şüphem yok",
+                    "trusted": true,
+                    "sellerName": "L'Oreal",
+                    "mediaFile": {
+                        "url": "https://review-rating.mncdn.com/prod/img/2016931/2020919/2045844/1263159/26151479-1682780905044.jpeg",
+                        "thumbnailUrl": "https://review-rating.mncdn.com/mnresize/300/300/prod/img/2016931/2020919/2045844/1263159/26151479-1682780905044.jpeg"
+                    },
+                    "lastModifiedDate": "29 Nisan 2023"
+                },
+                {
+                    "id": 47109899,
+                    "userFullName": "B** D**",
+                    "rate": 5,
+                    "comment": "çok güzel çok naif Bi fondöten begendim",
+                    "trusted": true,
+                    "sellerName": "L'Oreal",
+                    "mediaFile": {
+                        "url": "https://review-rating.mncdn.com/prod/img/2016931/2021916/2028895/1263159/24814562-1683839559335.jpeg",
+                        "thumbnailUrl": "https://review-rating.mncdn.com/mnresize/300/300/prod/img/2016931/2021916/2028895/1263159/24814562-1683839559335.jpeg"
+                    },
+                    "lastModifiedDate": "11 Mayıs 2023"
+                },
+                {
+                    "id": 47109900,
+                    "userFullName": "B** D**",
+                    "rate": 5,
+                    "comment": "çok güzel çok naif Bi fondöten begendim",
+                    "trusted": true,
+                    "sellerName": "L'Oreal",
+                    "mediaFile": {
+                        "url": "https://review-rating.mncdn.com/prod/img/2016931/2021916/2028895/1263159/24814562-1683839559943.jpeg",
+                        "thumbnailUrl": "https://review-rating.mncdn.com/mnresize/300/300/prod/img/2016931/2021916/2028895/1263159/24814562-1683839559943.jpeg"
+                    },
+                    "lastModifiedDate": "11 Mayıs 2023"
+                },
+                {
+                    "id": 47109901,
+                    "userFullName": "B** D**",
+                    "rate": 5,
+                    "comment": "çok güzel çok naif Bi fondöten begendim",
+                    "trusted": true,
+                    "sellerName": "L'Oreal",
+                    "mediaFile": {
+                        "url": "https://review-rating.mncdn.com/prod/img/2016931/2021916/2028895/1263159/24814562-1683839560084.jpeg",
+                        "thumbnailUrl": "https://review-rating.mncdn.com/mnresize/300/300/prod/img/2016931/2021916/2028895/1263159/24814562-1683839560084.jpeg"
+                    },
+                    "lastModifiedDate": "11 Mayıs 2023"
+                },
+                {
+                    "id": 46573535,
+                    "userFullName": "A** g** G**",
+                    "rate": 5,
+                    "comment": "Çok memnunum aşırı güzel",
+                    "trusted": true,
+                    "sellerName": "L'Oreal",
+                    "mediaFile": {
+                        "url": "https://review-rating.mncdn.com/prod/img/2016931/2021916/2024907/1263159/21675545-1683560473490.jpeg",
+                        "thumbnailUrl": "https://review-rating.mncdn.com/mnresize/300/300/prod/img/2016931/2021916/2024907/1263159/21675545-1683560473490.jpeg"
+                    },
+                    "lastModifiedDate": "8 Mayıs 2023"
+                },
+                {
+                    "id": 46737362,
+                    "userFullName": "**** ****",
+                    "rate": 5,
+                    "comment": "güzel kapatıyor ama mat ve kıvamı akıcı",
+                    "trusted": true,
+                    "sellerName": "KARDEŞLER DİJİTAL PAZARLAMA",
+                    "mediaFile": {
+                        "url": "https://review-rating.mncdn.com/prod/img/2016931/2021916/2025904/1263159/43576299-1683650633407.jpeg",
+                        "thumbnailUrl": "https://review-rating.mncdn.com/mnresize/300/300/prod/img/2016931/2021916/2025904/1263159/43576299-1683650633407.jpeg"
+                    },
+                    "lastModifiedDate": "9 Mayıs 2023"
+                },
+                {
+                    "id": 46737363,
+                    "userFullName": "**** ****",
+                    "rate": 5,
+                    "comment": "güzel kapatıyor ama mat ve kıvamı akıcı",
+                    "trusted": true,
+                    "sellerName": "KARDEŞLER DİJİTAL PAZARLAMA",
+                    "mediaFile": {
+                        "url": "https://review-rating.mncdn.com/prod/img/2016931/2021916/2025904/1263159/43576299-1683650634124.jpeg",
+                        "thumbnailUrl": "https://review-rating.mncdn.com/mnresize/300/300/prod/img/2016931/2021916/2025904/1263159/43576299-1683650634124.jpeg"
+                    },
+                    "lastModifiedDate": "9 Mayıs 2023"
+                }
+            ]
+        }
+    }
+}

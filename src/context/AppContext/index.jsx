@@ -12,7 +12,7 @@ export default function AppProvider({ children }) {
                 const response = await fetch('http://localhost:4000/reviews');
                 const data = await response.json();
                 // Process the data and update the context
-                setData(data);
+                setData(data.result);
             } catch (error) {
                 console.error('Error fetching data:', error);
             }

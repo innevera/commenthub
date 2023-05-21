@@ -9,11 +9,11 @@ const ReviewList = () => {
     if (!data) return;
 
     return (
-        <>
-            {data.result.productReviews.content.map((review, index) => (
+        <div className="review-list">
+            {data.productReviews.content.map((review, index) => (
                 <Review key={index} review={review} />
             ))}
-        </>
+        </div>
     )
 }
 

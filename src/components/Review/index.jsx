@@ -1,4 +1,4 @@
-import RatingSummary from '../RatingSummary'
+import Rating from '../Rating'
 import { ReviewModel } from '../../models/reviewModel';
 
 /**
@@ -8,21 +8,21 @@ const Review = ({ review }) => {
     const { comment, commentDate, userFullName, positiveFlagCount, rate } = review;
 
     return (
-        <div className="comment">
-            <div className="comment-header">
-                <div className="comment-rating">
-                    <RatingSummary qty={rate} />
+        <div className="review">
+            <div className="review-header">
+                <div className="review-rating">
+                    <Rating qty={rate} />
                 </div>
-                <div className="comment-info">
-                    <div className="comment-info-item">{userFullName}</div>
-                    <div className="comment-info-item">{commentDate}</div>
+                <div className="review-info">
+                    <div className="review-info-item">{userFullName}</div>
+                    <div className="review-info-item">{commentDate}</div>
                 </div>
             </div>
-            <div className="comment-text">
+            <div className="review-text">
                 <p>{comment}</p>
             </div>
-            <div className="comment-photos"></div>
-            <div className="comment-bottom">
+            <div className="review-photos"></div>
+            <div className="review-bottom">
                 <div className="seller-action">
                     <div className="rnr-com-like">
                         <span>({positiveFlagCount})</span>

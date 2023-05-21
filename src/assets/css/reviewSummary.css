@@ -1,0 +1,13 @@
+.review-summary {
+    margin-bottom: 2.4rem;
+}
+
+.review-summary .review-ratings {
+    display: flex;
+    flex-direction: column;
+}
+
+.review-summary .review-ratings .review-ratings-average {
+    font-size: 2rem;
+    font-weight: 500;
+}

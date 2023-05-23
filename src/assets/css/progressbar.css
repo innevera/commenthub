@@ -1,0 +1,15 @@
+.ch-progress-bar {
+    position: relative;
+    height: 5px;
+    width: 100%;
+    background-color: #ccc;
+}
+
+.ch-progress-bar-value {
+    --progress-percent: 0;
+    width: var(--progress-percent);
+    background-color: red;
+    position: absolute;
+    left: 0;
+    height: 100%;
+}

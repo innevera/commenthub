@@ -5,6 +5,7 @@ import FilterByReview from "./FilterByReview";
 import ReviewList from "./ReviewList";
 import ReviewSummary from "./ReviewSummary";
 import MediaList from './MediaList';
+import FilterByRating from "./FilterByRating";
 
 const App = () => {
 
@@ -15,6 +16,8 @@ const App = () => {
         <ReviewSummary />
 
         <FilterByReview />
+
+        <FilterByRating />
 
         <MediaList />
 
